@@ -8,6 +8,10 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 .tweet-cache/
+.bundle
+.DS_store
+.ruby-version
+Gemfile.lock
+vendor
 
 # End of https://www.toptal.com/developers/gitignore/api/jekyll
-
