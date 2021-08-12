@@ -5,7 +5,7 @@ date: 2021-08-12 11:00:00+0700
 description: CERN và quá trình phát triển giấy phép cho phần mềm Web
 comments: true
 ---
->Bài viết này được dịch từ bài [Licensing the Web](https://home.cern/science/computing/birth-web/licensing-web) trên trang web của CERN.
+>Bài viết này được dịch từ bài [Licensing the Web](https://home.cern/science/computing/birth-web/licensing-web){:target="_blank"} trên trang web của CERN.
 
 ## Bản phát hành công khai của phần mềm Web
 
@@ -17,7 +17,7 @@ Dịch:
 
 >CERN từ bỏ tất cả các quyền sở hữu trí tuệ đối với mã nguồn này bao gồm, toàn bộ mã nguồn và phần mềm đã biên dịch, đồng thời, cho phép bất kỳ ai sử dụng, sao chép, sửa đổi và phân phối chúng.
 
-Thời điểm đó là vào đầu những năm 90 khi các khái niệm như phần mềm tự do và mở hay không gian công cộng vẫn còn sơ khai. Richard Stallman đã thành lập Quỹ Phần mềm Tự do (Free Software Foundation), khởi động dự án GNU và viết giấy phep GNU Public License (GPL). Ông đã truyền truyền bá thông điệp về phần mềm tự do trong cộng đồng sử dụng máy tính, khuyến khích giữ bản quyền quyền phần mềm để đảm bảo người dụng được tự do sử dụng phần mềm. (Tìm hiểu thêm về Copyleft tại [bài viết này](https://hoangnv735.github.io/blog/2021/copyleft-la-gi))
+Thời điểm đó là vào đầu những năm 90 khi các khái niệm như phần mềm tự do và mở hay không gian công cộng vẫn còn sơ khai. Richard Stallman đã thành lập Quỹ Phần mềm Tự do (Free Software Foundation), khởi động dự án GNU và viết giấy phep GNU Public License (GPL). Ông đã truyền truyền bá thông điệp về phần mềm tự do trong cộng đồng sử dụng máy tính, khuyến khích giữ bản quyền quyền phần mềm để đảm bảo người dụng được tự do sử dụng phần mềm. (Tìm hiểu thêm về Copyleft tại [bài viết này](https://hoangnv735.github.io/blog/2021/copyleft-la-gi){:target="_blank"})
 
 ## Bản phát hành mã nguồn mở
 
