@@ -3,6 +3,7 @@ layout: post
 title: "[Dịch] Giấy phép của phần mềm Web"
 date: 2021-08-12 11:00:00+0700
 description: CERN và quá trình phát triển giấy phép cho phần mềm Web
+comments: true
 ---
 >Bài viết này được dịch từ bài [Licensing the Web](https://home.cern/science/computing/birth-web/licensing-web) trên trang web của CERN.
 

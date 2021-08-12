@@ -3,6 +3,7 @@ layout: post
 title: "[Dịch] Copyleft là gì?"
 date: 2021-08-12 02:00:00+0700
 description: Copyleft và ý tưởng về phần mềm tự do
+comments: true
 ---
 Bài này được dịch từ [What is Copyleft?](https://www.gnu.org/licenses/copyleft.en.html) trên trang web của dự án GNU.
 
