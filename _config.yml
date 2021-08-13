@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Hoang Ngo # the website title (if blank, full name will be used instead)
+title: Hoang's site # the website title (if blank, full name will be used instead)
 first_name: Hoang
 middle_name: V.
 last_name: Ngo
 email: hoangnv735@gmail.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hoang's site
-footer_text: >
+description: Just a random thought # the ">" symbol means to ignore newlines until "footer_text:"
+
+footer_text: 
 #  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
@@ -75,8 +75,8 @@ panelbear_analytics: # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Hoang Ngo  # your blog must have a name for it to show up in the nav bar
-blog_description: Hoang's site
+blog_name: Hoang's site  # your blog must have a name for it to show up in the nav bar
+blog_description: Just a random thought
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -156,7 +156,7 @@ scholar:
   last_name: Ngo
   first_name: [Hoang, H.]
 
-  style: ieee
+  style: apa
   locale: en
 
   source: /_bibliography/

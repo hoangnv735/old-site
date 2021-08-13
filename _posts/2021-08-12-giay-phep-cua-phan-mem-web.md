@@ -5,7 +5,11 @@ date: 2021-08-12 11:00:00+0700
 description: CERN và quá trình phát triển giấy phép cho phần mềm Web
 comments: true
 ---
->Bài viết này được dịch từ bài [Licensing the Web](https://home.cern/science/computing/birth-web/licensing-web){:target="_blank"} trên trang web của CERN.
+Bài viết này được dịch từ bài [Licensing the Web](https://home.cern/science/computing/birth-web/licensing-web){:target="_blank"} trên trang web của CERN.
+
+Mục lục 
+1. 
+{:toc}
 
 ## Bản phát hành công khai của phần mềm Web
 

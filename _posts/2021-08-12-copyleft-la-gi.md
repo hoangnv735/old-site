@@ -5,7 +5,7 @@ date: 2021-08-12 02:00:00+0700
 description: Copyleft và ý tưởng về phần mềm tự do
 comments: true
 ---
-Bài này được dịch từ [What is Copyleft?](https://www.gnu.org/licenses/copyleft.en.html){:target="_blank"} trên trang web của dự án GNU.
+*Bài này được dịch từ [What is Copyleft?](https://www.gnu.org/licenses/copyleft.en.html){:target="_blank"} trên trang web của dự án GNU.*
 
 Copyleft là một phương pháp để cung cấp phần mềm (hoặc các sản phẩm) một cách tự do (free) ([hiểu theo nghĩa tự do (freedom), không phải miễn phí (zero price)](https://www.gnu.org/philosophy/free-sw.html){:target="_blank"}) và yêu cầu tất cả các phiên bản sửa đổi và mở rộng của phần mềm cũng phải là phần mềm tự do.
 
